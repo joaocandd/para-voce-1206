@@ -1007,6 +1007,13 @@ body::after {
   line-height: 1.65;
 }
 
+.spotify-player {
+  display: block;
+  margin-top: 26px;
+  border: 1px solid rgba(244, 213, 141, 0.32);
+  box-shadow: 0 18px 54px rgba(0, 0, 0, 0.28);
+}
+
 .spotify-link {
   display: inline-flex;
   align-items: center;
